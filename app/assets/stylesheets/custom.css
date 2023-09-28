@@ -1,0 +1,10 @@
+/* app/assets/stylesheets/custom.css */
+.btn-custom {
+    background-color: #ff5733;
+    color: #fff;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #ff3300;
+}
